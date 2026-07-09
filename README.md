@@ -55,10 +55,10 @@ git clone https://github.com/hoangtranduchai/studentmanagementsystem.git
 ## 📸 Hình Ảnh Minh Họa (Screenshots)
 
 **Main Dashboard:** Hiển thị danh sách và bộ lọc tìm kiếm.
-> <img width="917" height="596" alt="Screenshot 2026-06-12 004634" src="https://github.com/user-attachments/assets/80b119ba-426a-4d92-925d-1878ef066606" />
+<img width="917" height="596" alt="Screenshot 2026-06-12 004634" src="https://github.com/user-attachments/assets/80b119ba-426a-4d92-925d-1878ef066606" />
 
 **Detail Form:** Màn hình thêm mới/chỉnh sửa sinh viên với các logic kiểm duyệt đầu vào.
-> <img width="422" height="462" alt="Screenshot 2026-06-12 004926" src="https://github.com/user-attachments/assets/965a29fd-b82b-4d09-bb56-7c9f6f4ac3ca" />
+<img width="422" height="462" alt="Screenshot 2026-06-12 004926" src="https://github.com/user-attachments/assets/965a29fd-b82b-4d09-bb56-7c9f6f4ac3ca" />
 
 
 ---
